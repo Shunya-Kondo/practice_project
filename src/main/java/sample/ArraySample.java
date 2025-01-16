@@ -10,7 +10,7 @@ public class ArraySample {
 		int[]numArray = new int[3];
 		numArray[0]=1;
 		numArray[1]=2;
-		int[]strArray = {"近藤", "福尾", "田原"};
+		String[]strArray = {"近藤", "福尾", "田原"};
 		System.out.println(strArray[0]);
 		
 	} 

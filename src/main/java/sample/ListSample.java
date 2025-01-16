@@ -1,5 +1,6 @@
 package sample;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class ListSample {
@@ -10,7 +11,6 @@ public class ListSample {
 		List<String>strList = new ArrayList<String>();
 		strList.add("近藤");
 		System.out.println(strList.get(0));
-		List<Integer> integer = new 
 	}
 
 }

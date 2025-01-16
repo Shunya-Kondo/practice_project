@@ -10,5 +10,4 @@ public class ArrayDisplay {
 			System.out.println(str);
 		}
 	}
-
 }
